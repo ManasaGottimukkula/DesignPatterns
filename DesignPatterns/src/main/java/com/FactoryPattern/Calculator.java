@@ -17,6 +17,6 @@ public class Calculator {
 		CalculatorFactory factory = new CalculatorFactory();
 		Calculate cal =  factory.operations(choose);
 		cal.calculate(num1, num2);
+		
 	}
-
 }
