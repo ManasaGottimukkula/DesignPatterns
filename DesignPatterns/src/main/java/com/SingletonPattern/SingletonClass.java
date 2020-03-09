@@ -1,6 +1,5 @@
 package com.SingletonPattern;
 
-import java.io.ObjectInputStream.GetField;
 
 public class SingletonClass {
 	private static SingletonClass object;
